@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Practice2 {
     public static void main(String[] args) {
+        int[] lista_numeros = new int[6];
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingrese 6 números enteros:");
-        int[] lista_numeros = new int[6];
 
         for (int i = 0; i < lista_numeros.length; i++) {
             lista_numeros[i] = scanner.nextInt();

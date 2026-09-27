@@ -10,7 +10,7 @@ public class Practice12 {
 
         System.out.println("""
                 ------------------------------------
-                   BIENVENIDO AL MENU INTERACTO
+                   BIENVENIDO AL MENU INTERACTIVO
                 ------------------------------------
                 """);
         do {
@@ -26,7 +26,7 @@ public class Practice12 {
                 case 1:
                     System.out.println("""
                             ------------------------------------
-                               BIENVENIDO AL MENU INTERACTO
+                               BIENVENIDO AL MENU INTERACTIVO
                             ------------------------------------
                             """);
                     break;
